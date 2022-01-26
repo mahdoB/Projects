@@ -1,6 +1,7 @@
 # Eclipse staff
 .settings/
 bin/
+*.project
 *.classpath
 
 # Compiled class file
